@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_complete_guide/dummy_data.dart';
 import 'package:flutter_complete_guide/models/meal.dart';
 import 'package:flutter_complete_guide/widgets/meal_item.dart';
 
@@ -40,11 +39,11 @@ class _CategoryMealsScreenState extends State<CategoryMealsScreen> {
     super.didChangeDependencies();
   }
 
-  void _removeMeal(String mealId) {
+/*  void _removeMeal(String mealId) {
     setState(() {
       displayedMeals.removeWhere((meal) => meal.id == mealId);
     });
-  }
+  }*/
 
   @override
   Widget build(BuildContext context) {
