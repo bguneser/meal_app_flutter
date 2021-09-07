@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717956592589",
+    "project_id": "mealappflutter",
+    "storage_bucket": "mealappflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717956592589:android:a95423a1f422ebe4638a84",
+        "android_client_info": {
+          "package_name": "com.bguneser.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717956592589-sn4ot8oq941hjhifstnjd3medss1pljr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8nb4ZA95K06ZCJQKDlXEth68Cz8R1IfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717956592589-sn4ot8oq941hjhifstnjd3medss1pljr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
