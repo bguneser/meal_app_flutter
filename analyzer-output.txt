@@ -1,0 +1,1 @@
+[info] 'title' is deprecated and shouldn't be used. This is the term used in the 2014 version of material design. The modern term is headline6. This feature was deprecated after v1.13.8. (/Users/bguneser/Documents/flutter_projects/meals_app/flutter_app/lib/screens/meal_detail_screen.dart:17:44)
