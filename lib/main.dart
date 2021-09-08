@@ -12,7 +12,7 @@ import 'models/meal.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget {
-  // test for codemagic
+
   @override
   _MyAppState createState() => _MyAppState();
 }
